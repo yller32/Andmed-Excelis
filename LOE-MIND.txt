@@ -1,0 +1,11 @@
+ANDMETE TÖÖTLEMINE MS EXCEL — SCORM 1.2
+
+Paigaldamine:
+1. Laadi üles excel_andmetootlus_scorm12.zip oma LMS-i (nt Moodle).
+2. Vali tegevuse või kursuse materjali tüübiks SCORM-pakett.
+3. Laadi ZIP üles muutmata kujul ja salvesta seaded.
+4. Ava õppijana testimiseks. Moodul sisaldab 10 sisuteemat ja 12 küsimusega teadmiste kontrolli.
+5. Läbimise piir: 75%. SCORM 1.2 API kaudu salvestatakse asukoht, olek ja tulemus, kui LMS toetab SCORM 1.2.
+
+Sisu:
+Koostatud Ülle Raaveli õppematerjali „Andmete töötlemine (MS Excel)“ (TLÜ Haapsalu kolledž, 2026) kõigi sisukorras nimetatud teemade põhjal. Algmaterjali sisulised teemad on säilitatud; need on õppimiseks ümber jaotatud ning täiendatud teadmiste kontrolliga.
